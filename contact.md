@@ -5,8 +5,8 @@ title: COINE
 
 # Contact
 
-For any questions about COINE 2023 @ AAMAS, please send an e-mail to
+For any questions about COINE 2025 @ AAMAS, please send an e-mail to
 
-[Jithin Cheriyan](mailto:jithin.cheriyan@postgrad.otago.ac.nz) (University of Otago, NZ)  
-[Nicoletta Fornara](mailto:nicoletta.fornara@usi.ch) (Università della Svizzera italiana, Switzerland)  
-[Asimina Mertzani](mailto:asimina.mertzani20@imperial.ac.uk) (Imperial College of London, UK)   
+[Jaime Simão Sichman](mailto:jaime.sichman@usp.br) (University of São Paulo, Brazil)
+[Davide Dell'Anna](mailto:d.dellanna@uu.nl) (Utrecht University, The Netherlands)
+[Sz-Ting (Christine) Tzeng](mailto:stzeng@cs.umu.se) (Umeå University, Sweden)
