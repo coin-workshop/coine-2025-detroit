@@ -28,9 +28,9 @@ We invite submissions that address any of the following aspects:
 The workshop complements the main AAMAS program by allowing a more relaxed and in-depth discussion of MAS from a social perspective and has proven to be an event that encourages debate, and fosters collaboration among researchers in these topics.
 
 ### Important Dates 
-- Paper submission: February 4, 2025
-- Author notifications: March 10, 2025
-- Camera-ready deadline: March 30, 2025
+- Paper submission: To be announced soon
+- Author notifications: To be announced soon
+- Camera-ready deadline: To be announced soon
 - Workshop: To be announced soon
 
 ### Instructions for Authors
