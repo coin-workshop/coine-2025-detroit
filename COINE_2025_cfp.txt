@@ -16,12 +16,10 @@ The growing pervasiveness of “open systems” raises a range of challenges and
 opportunities for developing technologies in the area of autonomous agents and 
 multi-agent systems (MAS). In open MAS, artificial and human autonomous agents, 
 their modes of interaction and the pursued goal of the system may change over time. 
-Additionally, the agents’ autonomy, which can be influenced and amplified by 
-coordination techniques, can work against the system’s effectiveness. 
 The view of coordination and control has to be expanded to consider not only an 
 agent-centric perspective but societal and organization-centric views as well.
 Moreover, in the case of open multi-agent systems, the autonomy of the agents can 
-work against the effectiveness of the society. 
+work against the effectiveness of the system and of the society. 
 There is therefore a need for tools and techniques for articulating interactions in 
 order to make MAS more effective in attaining collective goals, aligning agent 
 behaviors with shared human values, and more trustworthy, predictable and 
