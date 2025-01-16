@@ -31,7 +31,7 @@ The workshop complements the main AAMAS program by allowing a more relaxed and i
 - Paper submission: February 4th, 2025
 - Author notifications: March 10th, 2025
 - Camera-ready deadline: March 30th, 2025
-- Workshop: To be announced soon
+- Workshop: May 20th, 2025
 
 ### Instructions for Authors
 
@@ -49,7 +49,7 @@ For submission of papers, please use the OpenReview.net site at: [https://openre
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two PC members.
 
-Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work.
+Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. Authors of accepted papers are expected to present their work in person by default. Exceptions may be granted by the organizing committee on a case-by-case basis, and authors who receive such exceptions may present their work online, provided they register for the workshop. Presentations will be delivered in the Eastern Time Zone.
 
 ### Proceedings
 
