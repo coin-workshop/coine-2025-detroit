@@ -28,7 +28,7 @@ We invite submissions that address any of the following aspects:
 The workshop complements the main AAMAS program by allowing a more relaxed and in-depth discussion of MAS from a social perspective and has proven to be an event that encourages debate, and fosters collaboration among researchers in these topics.
 
 ### Important Dates
-- Paper submission: February 4th, 2025
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> **February 11th, 2025 AOE (EXTENDED)**
 - Author notifications: March 10th, 2025
 - Camera-ready deadline: March 30th, 2025
 - Workshop: May 20th, 2025
