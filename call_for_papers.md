@@ -8,6 +8,12 @@ title: COINE
 COINE 2025 is co-located with the International Conference on Autonomous Agents and
 Multiagent Systems (AAMAS), Detroit, Michigan, USA, 19 May-23 May 2025 ([https://aamas2025.org/](https://aamas2025.org/))
 
+### Important Dates
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> **February 11th, 2025 AOE (EXTENDED)**
+- Author notifications: March 10th, 2025
+- Camera-ready deadline: March 30th, 2025
+- Workshop: May 20th, 2025
+
 ### Overview
 
 The growing pervasiveness of “open systems” raises a range of challenges and opportunities for developing technologies in the area of autonomous agents and multi-agent systems (MAS). In open MAS, artificial and human autonomous agents, their modes of interaction and the pursued goal of the system may change over time. The view of coordination and control has to be expanded to consider not only an agent-centric perspective but societal and organization-centric views as well. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the system and of the society. There is therefore a need for tools and techniques for articulating interactions in order to make MAS more effective in attaining collective goals, aligning agent behaviors with shared human values, and more trustworthy, predictable and understandable for humans.
@@ -26,12 +32,6 @@ We invite submissions that address any of the following aspects:
 - Challenging or innovative ideas relevant to the field
 
 The workshop complements the main AAMAS program by allowing a more relaxed and in-depth discussion of MAS from a social perspective and has proven to be an event that encourages debate, and fosters collaboration among researchers in these topics.
-
-### Important Dates
-- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> **February 11th, 2025 AOE (EXTENDED)**
-- Author notifications: March 10th, 2025
-- Camera-ready deadline: March 30th, 2025
-- Workshop: May 20th, 2025
 
 ### Instructions for Authors
 
