@@ -14,7 +14,7 @@ This workshop is an evolution of the COIN (Coordination, Organizations, Institut
 This edition of the COINE workshop will be hosted by [AAMAS 2025](https://aamas2025.org/) and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Previous editions of COINE have proven to foster collaboration among researchers in the relevant topics.
 
 # Important Dates
-- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> **February 11th, 2025 AOE (EXTENDED)**
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span> **February 22nd, 2025 AOE (EXTENDED)**
 - Author notifications: March 10th, 2025
 - Camera-ready deadline: March 30th, 2025
 - Workshop: May 20th, 2025
