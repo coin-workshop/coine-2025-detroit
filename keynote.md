@@ -29,10 +29,8 @@ North Carolina State University<br/>
 ### Norms and Ethics in Large Language Models
 
 **Abstract**: Generative AI in the shape of Large Language Models (LLMs) has shown surprising ability, though also surprisingly brittle ability, to deal with high-level concepts.
-This talk will summarize some of our recent work on the relationship between LLMs, norms, and ethics.
-
+This talk will summarize some of our recent work on the relationship between LLMs, norms, and ethics.<br/><br/>
 In one study, we evaluated some leading LLMs with respect to their ability to deal with "right versus right" dilemmas, including what moral postures they seem to embody and how responsive they are to adapting to a user's prompt.
 In another study, we considered how LLMs can engage in cooperative dialogue in a task-oriented setting.
-We found that LLMs are competitive with humans in theory of mind (ToM) reasoning; proficiency at ToM reasoning is a precursor for an agent to be socially intelligent, including identifying norms and adopting or deviating from them.
-
+We found that LLMs are competitive with humans in theory of mind (ToM) reasoning; proficiency at ToM reasoning is a precursor for an agent to be socially intelligent, including identifying norms and adopting or deviating from them.<br/><br/>
 We close with a discussion of the prospects for developing agents based on generative AI.
