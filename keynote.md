@@ -1,9 +1,6 @@
 ---
-title: Keynote
+title: Keynote Speakers
 ---
-
-# Keynote Speakers
-
 
 [**Louise Dennis**](https://personalpages.manchester.ac.uk/staff/louise.dennis/){: target="_blank"}<br/>
 University of Manchester<br/>

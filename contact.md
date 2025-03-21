@@ -2,8 +2,6 @@
 title: Contact
 ---
 
-# Contact
-
 For any questions about COINE 2025 @ AAMAS, please send an e-mail to
 
 [Jaime Simão Sichman](mailto:jaime.sichman@usp.br) (University of São Paulo, Brazil)

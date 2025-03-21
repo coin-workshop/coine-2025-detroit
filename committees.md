@@ -2,8 +2,6 @@
 title: Committees
 ---
 
-# Committees
-
 ## COINE@AAMAS2025 Co-Chairs
 
 - [Jaime Simão Sichman](mailto:jaime.sichman@usp.br) (University of São Paulo, Brazil)
