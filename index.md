@@ -15,6 +15,6 @@ This edition of the COINE workshop will be hosted by [AAMAS 2025](https://aamas2
 
 # Important Dates
 - Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span><span style="color:red; text-decoration: line-through;">February 22nd, 2025</span> **February 25th, 2025 AOE (EXTENDED)**
-- Author notifications: March 10th, 2025
+- Author notifications: March 21st, 2025
 - Camera-ready deadline: March 30th, 2025
 - Workshop: May 20th, 2025
