@@ -1,6 +1,5 @@
 ---
-layout: default
-title: COINE
+title: Contact
 ---
 
 # Contact
@@ -12,8 +11,3 @@ For any questions about COINE 2025 @ AAMAS, please send an e-mail to
 [Davide Dell'Anna](mailto:d.dellanna@uu.nl) (Utrecht University, The Netherlands)
 
 [Sz-Ting (Christine) Tzeng](mailto:stzeng@cs.umu.se) (Umeå University, Sweden)
-
-
-
-
-

@@ -1,7 +1,14 @@
 ---
-layout: default
-title: COINE
 ---
+
+* __*<span style="color:blue"><a href="https://aamas2025.org/index.php/conference/registration/" target="_blank">Workshop registration</a> is now available. The early registration deadline ends on March 31, 2025</span>*__
+* __*<span style="color:blue">Notifications sent out on March 21, 2025 </span>*__
+
+# Important Dates
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span><span style="color:red; text-decoration: line-through;">February 22nd, 2025</span> **February 25th, 2025 AOE (EXTENDED)**
+- Author notifications: <span style="text-decoration: line-through;">March 10th, 2025</span> March 21st, 2025
+- Camera-ready deadline: March 30th, 2025
+- Workshop: May 20th, 2025
 
 # Objectives
 
@@ -12,9 +19,3 @@ The growing pervasiveness of “open systems” raises a range of challenges and
 This workshop is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (17 times), IJCAI (twice), AAAI in 2008 and ECAI in 2006 and 2016 (see [Workshop Series Website](http://www2.pcs.usp.br/~coin)), and produced 17 volumes of post-proceedings in Springer’s Lecture Notes in Artificial Intelligence. In 2020, ethics was added to the name and acronym (now COINE), and also the notion of governance of MAS was added to the full workshop title as this is the common objective uniting the various threads of research (coordination, organizations, etc.) undertaken. The workshop in the new format has been held five times (2020--2024).
 
 This edition of the COINE workshop will be hosted by [AAMAS 2025](https://aamas2025.org/) and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Previous editions of COINE have proven to foster collaboration among researchers in the relevant topics.
-
-# Important Dates
-- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span><span style="color:red; text-decoration: line-through;">February 22nd, 2025</span> **February 25th, 2025 AOE (EXTENDED)**
-- Author notifications: March 21st, 2025
-- Camera-ready deadline: March 30th, 2025
-- Workshop: May 20th, 2025
