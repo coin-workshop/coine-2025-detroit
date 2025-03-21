@@ -1,5 +1,4 @@
 ---
-title: COINE
 ---
 
 # COINE Workshop Series

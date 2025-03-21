@@ -1,5 +1,4 @@
 ---
-title: COINE
 ---
 
 # Keynote Speakers

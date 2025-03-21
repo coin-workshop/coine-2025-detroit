@@ -1,5 +1,4 @@
 ---
-title: COINE
 ---
 
 # Papers Accepted for Presentation
