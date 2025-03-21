@@ -1,6 +1,8 @@
 ---
-title: Paper Submission
+title: COINE
 ---
+
+# Paper Submission
 
 ### Instructions for Authors
 

@@ -1,12 +1,14 @@
 ---
-title: Call for Papers
+title: COINE
 ---
+
+# Call for Papers
 
 COINE 2025 is co-located with the International Conference on Autonomous Agents and
 Multiagent Systems (AAMAS), Detroit, Michigan, USA, 19 May-23 May 2025 ([https://aamas2025.org/](https://aamas2025.org/))
 
 ### Important Dates
-- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span> <span style="color:red; text-decoration: line-through;">February 22nd, 2025</span> **February 25th, 2025 AOE (EXTENDED)**
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span> <span style="color:red; text-decoration: line-through;"> February 22nd, 2025</span> **February 25th, 2025 AOE (EXTENDED)**
 - Author notifications: <span style="text-decoration: line-through;">March 10th, 2025</span> March 21st, 2025
 - Camera-ready deadline: March 30th, 2025
 - Workshop: May 20th, 2025

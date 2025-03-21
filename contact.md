@@ -1,6 +1,8 @@
 ---
-title: Contact
+title: COINE
 ---
+
+# Contact
 
 For any questions about COINE 2025 @ AAMAS, please send an e-mail to
 

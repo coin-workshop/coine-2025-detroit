@@ -1,6 +1,8 @@
 ---
-title: Committees
+title: COINE
 ---
+
+# Committees
 
 ## COINE@AAMAS2025 Co-Chairs
 
