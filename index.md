@@ -5,9 +5,9 @@
 * __*<span style="color:blue">Notifications sent out on March 21, 2025 </span>*__
 
 # Important Dates
-- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span><span style="color:red; text-decoration: line-through;">February 22nd, 2025</span> **February 25th, 2025 AOE (EXTENDED)**
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span><span style="color:red; text-decoration: line-through;">February 22nd, 2025</span> **February 25th, 2025 AoE (EXTENDED)**
 - Author notifications: <span style="text-decoration: line-through;">March 10th, 2025</span> March 21st, 2025
-- Camera-ready deadline: March 30th, 2025
+- Camera-ready deadline: <span style="text-decoration: line-through;">March 30th, 2025</span> April 22nd, 2025 AoE
 - Workshop: May 20th, 2025
 
 # Objectives
