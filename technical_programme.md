@@ -25,7 +25,7 @@ Location: LaSalle B, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>MAD Chairs: A New Tool to Evaluate AI (Blue-Sky Paper)</b><br/>Chris Santos-Lang, Christopher M Homan</td>
+      <td align="left" valign="top"><b>MAD Chairs: A New Tool to Evaluate AI (Blue-Sky Paper)</b><br/>Chris Santos-Lang, Christopher M. Homan</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
@@ -45,7 +45,7 @@ Location: LaSalle B, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies</b><br/>A. Kavindu Warnakulasuriya, Prabhash Dissanayake, Navindu De Silva, Stephen Cranefield, Bastin Tony Roy Savarimuthu, Surangika Ranathunga, Nisansa de Silva</td>
+      <td align="left" valign="top"><b>Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies</b><br/>Kavindu Warnakulasuriya, Prabhash Dissanayake, Navindu De Silva, Stephen Cranefield, Bastin Tony Roy Savarimuthu, Surangika Ranathunga, Nisansa de Silva</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
@@ -65,7 +65,7 @@ Location: LaSalle B, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"><b>14:00-15:00</b></td>
-      <td align="left" valign="top"><b>Common Panel with <a href="https://emas.in.tu-clausthal.de/2025/" target="_blank">EMAS</a></b></td>
+      <td align="left" valign="top"><b>Common Panel with <a href="https://emas.in.tu-clausthal.de/2025/" target="_blank">EMAS</a></b><br/>Topic: Special Theme on ML- and Data-Driven Approaches</td>
     </tr>
     <tr>
       <td align="left" valign="top"><b>15:10-16:00</b></td>
