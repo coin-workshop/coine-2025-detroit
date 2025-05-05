@@ -7,7 +7,7 @@ title: COINE
 
 <b>IMPORTANT:</b> The schedule times are Eastern Daylight time (UTC-4)
 
-# Location : LaSalle B, 5th floor
+Location: LaSalle B, 5th floor
 
 <table id="coine2025-schedule">
   <tbody>
@@ -25,11 +25,11 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>MAD Chairs: A new tool to evaluate AI (Blue-sky paper)</b><br/>Chris Santos-Lang, Christopher M Homan</td>
+      <td align="left" valign="top"><b>MAD Chairs: A New Tool to Evaluate AI (Blue-Sky Paper)</b><br/>Chris Santos-Lang, Christopher M Homan</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>Exploring the effects of punishment severity and norm update frequency in mixed-motive norm-enhanced Markov Games</b><br/>Rafael Molinari Cheang, Marcos Menon Jose, Jaime Simão Sichman</td>
+      <td align="left" valign="top"><b>Exploring the Effects of Punishment Severity and Norm Update Frequency in Mixed-Motive Norm-Enhanced Markov Games</b><br/>Rafael Molinari Cheang, Marcos Menon Jose, Jaime Simão Sichman</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
@@ -53,11 +53,11 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>Navigating Risk: Do LLMs Make the Right Call? (Short paper)</b><br/>Divya Sundaresan, Fardin Saad, Sanjana Cheerla, Munindar P. Singh</td>
+      <td align="left" valign="top"><b>Navigating Risk: Do LLMs Make the Right Call? (Short Paper)</b><br/>Divya Sundaresan, Fardin Saad, Sanjana Cheerla, Munindar P. Singh</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>The Utility and Implementation of Explicit Commands for Ad-Hoc Coordination (Short paper)</b><br/>Timothy Flavin, Sandip Sen</td>
+      <td align="left" valign="top"><b>The Utility and Implementation of Explicit Commands for Ad-Hoc Coordination (Short Paper)</b><br/>Timothy Flavin, Sandip Sen</td>
     </tr>
     <tr>
       <td align="left" valign="top"><b>12:30-14:00</b></td>
@@ -65,7 +65,7 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top"><b>14:00-15:00</b></td>
-      <td align="left" valign="top"><b>Common Panel with EMAS</b></td>
+      <td align="left" valign="top"><b>Common Panel with <a href="https://emas.in.tu-clausthal.de/2025/" target="_blank">EMAS</a></b></td>
     </tr>
     <tr>
       <td align="left" valign="top"><b>15:10-16:00</b></td>
@@ -85,7 +85,7 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top"><b>16:30-17:30</b></td>
-      <td align="left" valign="top"><b>Keynote</b><br/></b>Topic: Norms and Ethics in Large Language Models</b><br/>**Munindar P. Singh**</td>
+      <td align="left" valign="top"><b>Keynote</b><br/>Topic: [Norms and Ethics in Large Language Models](https://coin-workshop.github.io/coine-2025-detroit/keynote.html)<br/>Munindar P. Singh</td>
     </tr>
     <tr>
       <td align="left" valign="top"><b>17:30-18:00</b></td>
