@@ -3,10 +3,97 @@ layout: default
 title: COINE
 ---
 
-# Schedule
+# Program
 
-To be announced ...
+<b>IMPORTANT:</b> The schedule times are Eastern Daylight time (UTC-4)
+
+# Location : LaSalle B, 5th floor
+
+<table id="coine2025-schedule">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" style="width: 17%;"><b>Time</b></td>
+      <td align="left" valign="top"><b>Activities</b></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>9:00-9:10</b></td>
+      <td align="left" valign="top">Welcome and Opening Session</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>9:10-10:25</b></td>
+      <td align="left" valign="top"><b>Session 1</b></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>MAD Chairs: A new tool to evaluate AI (Blue-sky paper)</b><br/>Chris Santos-Lang, Christopher M Homan</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>Exploring the effects of punishment severity and norm update frequency in mixed-motive norm-enhanced Markov Games</b><br/>Rafael Molinari Cheang, Marcos Menon Jose, Jaime Simão Sichman</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>Effects of Network Topology, Mobility, Interaction, and Memory on Tipping Points</b><br/>Joe Shymanski, Sandip Sen</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>10:30-11:00</b></td>
+      <td align="left" valign="top">Coffee Break</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>11:00-12:30</b></td>
+      <td align="left" valign="top"><b>Session 2</b></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies</b><br/>A. Kavindu Warnakulasuriya, Prabhash Dissanayake, Navindu De Silva, Stephen Cranefield, Bastin Tony Roy Savarimuthu, Surangika Ranathunga, Nisansa de Silva</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>Can LLMs Reason About Trust? : A Pilot Study</b><br/>Anushka Debnath, Stephen Cranefield, Emiliano Lorini, Bastin Tony Roy Savarimuthu</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>Navigating Risk: Do LLMs Make the Right Call? (Short paper)</b><br/>Divya Sundaresan, Fardin Saad, Sanjana Cheerla, Munindar P. Singh</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>The Utility and Implementation of Explicit Commands for Ad-Hoc Coordination (Short paper)</b><br/>Timothy Flavin, Sandip Sen</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>12:30-14:00</b></td>
+      <td align="left" valign="top">Lunch Break</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>14:00-15:00</b></td>
+      <td align="left" valign="top"><b>Common Panel with EMAS</b></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>15:10-16:00</b></td>
+      <td align="left" valign="top"><b>Session 3</b></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>Emergence of Multi-Step Conventions</b><br/>Marina Katoh, Feyza Merve Hafızoğlu, Jacob Brue, Sandip Sen</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>A Unified View on Regulation Management in Multi-Agent Systems</b><br/>Elena Yan, Luis Gustavo Nardin, Olivier Boissier, Jaime Simão Sichman</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>16:00-16:30</b></td>
+      <td align="left" valign="top">Coffee Break</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>16:30-17:30</b></td>
+      <td align="left" valign="top"><b>Keynote</b><br/></b>Topic: Norms and Ethics in Large Language Models</b><br/>**Munindar P. Singh**</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><b>17:30-18:00</b></td>
+      <td align="left" valign="top">Closing Session</td>
+    </tr>
+  </tbody>
+</table>
 
 
-
-
+- Full papers and blue-sky papers are up to 25 minutes (up to 20 minutes of presentation and 5 minutes of questions)
+- Short papers are up to 20 minutes (up to 15 minutes of presentation and 5 minutes of questions)

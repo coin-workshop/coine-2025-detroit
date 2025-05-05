@@ -3,22 +3,7 @@ layout: default
 title: COINE
 ---
 
-# Keynote Speakers
-
-[**Louise Dennis**](https://personalpages.manchester.ac.uk/staff/louise.dennis/){: target="_blank"}<br/>
-University of Manchester<br/>
-<img width="240px" style="margin: 1em; float: left" src="assets/image/louise.png" />
-
-### Agents, Ethics and Explanations
-
-**Abstract**: Moral uncertainty is the problem of deciding upon the correct way to determine an ethical course of action.
-Many well-known ethical problems (e.g., the trolley problems) are decided differently depending upon the ethical theory or preference order over values that is used.
-In many situations there is uncertainty over which is the best decision mechanism, and an interest in accepting any outcome that is consistent with some appropriate theory.
-This has led to interest in the link between ethical and explainable reasoning.
-A decision is not ethical because is complies with some benchmark set, but is instead considered ethical because it can be justified in relation to some ethical theory.
-In this talk, I will survey, some of the work I have done on both ethical reasoning in agents, and agent explainability.
-
----
+# Keynote Speaker
 
 [**Munindar P. Singh**](https://www.go.ncsu.edu/mpsingh/){: target="_blank"}<br/>
 North Carolina State University<br/>
