@@ -85,7 +85,7 @@ Location: LaSalle B, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"><b>16:30-17:30</b></td>
-      <td align="left" valign="top"><b>Keynote</b><br/>Topic: [Norms and Ethics in Large Language Models](https://coin-workshop.github.io/coine-2025-detroit/keynote.html)<br/>Munindar P. Singh</td>
+      <td align="left" valign="top"><b>Keynote</b><br/>Topic: <a href="https://coin-workshop.github.io/coine-2025-detroit/keynote.html" target="_blank">Norms and Ethics in Large Language Models</a><br/>Munindar P. Singh</td>
     </tr>
     <tr>
       <td align="left" valign="top"><b>17:30-18:00</b></td>
