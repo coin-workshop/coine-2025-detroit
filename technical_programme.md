@@ -5,7 +5,7 @@ title: COINE
 
 # Program
 
-<b>IMPORTANT:</b> The schedule times are Eastern Daylight time (UTC-4)
+<b>IMPORTANT:</b> The scheduled times are in Eastern Daylight Time (UTC-4)
 
 Location: LaSalle B, 5th floor
 
@@ -16,16 +16,20 @@ Location: LaSalle B, 5th floor
       <td align="left" valign="top"><b>Activities</b></td>
     </tr>
     <tr>
-      <td align="left" valign="top"><b>9:00-9:10</b></td>
+      <td align="left" valign="top"><b>8:30-8:40</b></td>
       <td align="left" valign="top">Welcome and Opening Session</td>
     </tr>
     <tr>
-      <td align="left" valign="top"><b>9:10-10:25</b></td>
+      <td align="left" valign="top"><b>8:40-10:20</b></td>
       <td align="left" valign="top"><b>Session 1</b></td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
       <td align="left" valign="top"><b>MAD Chairs: A New Tool to Evaluate AI (Blue-Sky Paper)</b><br/>Chris Santos-Lang, Christopher M. Homan</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"></td>
+      <td align="left" valign="top"><b>Uncertainty, bias and the institution bootstrapping problem</b><br/>Stavros T. Anagnou, Christoph Salge, Peter R. Lewis</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
