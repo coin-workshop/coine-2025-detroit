@@ -29,7 +29,7 @@ Location: LaSalle B, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies</b><br/>Kavindu Warnakulasuriya, Prabhash Dissanayake, Navindu De Silva, Stephen Cranefield, Bastin Tony Roy Savarimuthu, Surangika Ranathunga, Nisansa de Silva</td>
+      <td align="left" valign="top"><b>Effects of Network Topology, Mobility, Interaction, and Memory on Tipping Points</b><br/>Joe Shymanski, Sandip Sen</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
@@ -77,7 +77,7 @@ Location: LaSalle B, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"></td>
-      <td align="left" valign="top"><b>Effects of Network Topology, Mobility, Interaction, and Memory on Tipping Points</b><br/>Joe Shymanski, Sandip Sen</td>
+      <td align="left" valign="top"><b>Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies</b><br/>Kavindu Warnakulasuriya, Prabhash Dissanayake, Navindu De Silva, Stephen Cranefield, Bastin Tony Roy Savarimuthu, Surangika Ranathunga, Nisansa de Silva</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
