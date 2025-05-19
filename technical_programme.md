@@ -9,6 +9,8 @@ title: COINE
 
 Location: LaSalle B, 5th floor
 
+Location of Common panel: Brule A, 5th floor
+
 <table id="coine2025-schedule">
   <tbody>
     <tr>
@@ -69,7 +71,7 @@ Location: LaSalle B, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"><b>14:00-15:00</b></td>
-      <td align="left" valign="top"><b>Common Panel with <a href="https://emas.in.tu-clausthal.de/2025/" target="_blank">EMAS</a></b> located in Room Brule A<br/>Topic: Special Theme on ML- and Data-Driven Approaches</td>
+      <td align="left" valign="top"><b>Common Panel with <a href="https://emas.in.tu-clausthal.de/2025/" target="_blank">EMAS</a></b><br/>Topic: Special Theme on ML- and Data-Driven Approaches</td>
     </tr>
     <tr>
       <td align="left" valign="top"><b>15:05-15:45</b></td>
