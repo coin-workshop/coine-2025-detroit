@@ -23,7 +23,7 @@ Location of Common panel: Brule A, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"><b>9:10-10:00</b></td>
-      <td align="left" valign="top"><b>Session 1</b></td>
+      <td align="left" valign="top"><b>Session 1</b><br/>Chair: Davide Dell‘Anna</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
@@ -43,7 +43,7 @@ Location of Common panel: Brule A, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"><b>10:45-12:30</b></td>
-      <td align="left" valign="top"><b>Session 2</b></td>
+      <td align="left" valign="top"><b>Session 2</b><br/>Chair: Sz-Ting (Christine) Tzeng</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
@@ -75,7 +75,7 @@ Location of Common panel: Brule A, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"><b>15:05-15:45</b></td>
-      <td align="left" valign="top"><b>Session 3</b></td>
+      <td align="left" valign="top"><b>Session 3</b><br/>Chair: Davide Dell‘Anna</td>
     </tr>
     <tr>
       <td align="left" valign="top"></td>
@@ -91,7 +91,7 @@ Location of Common panel: Brule A, 5th floor
     </tr>
     <tr>
       <td align="left" valign="top"><b>16:30-17:30</b></td>
-      <td align="left" valign="top"><b>Keynote</b><br/>Topic: <a href="https://coin-workshop.github.io/coine-2025-detroit/keynote.html" target="_blank">Norms and Ethics in Large Language Models</a><br/>Munindar P. Singh</td>
+      <td align="left" valign="top"><b>Keynote</b><br/>Topic: <a href="https://coin-workshop.github.io/coine-2025-detroit/keynote.html" target="_blank">Norms and Ethics in Large Language Models</a><br/>Munindar P. Singh<br/>Host: Jaime Simão Sichman</td>
     </tr>
     <tr>
       <td align="left" valign="top"><b>17:30-17:45</b></td>
