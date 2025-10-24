@@ -1,2 +1,0 @@
-User-agent: *
-Disallow: /accepted_for_presentation.md
