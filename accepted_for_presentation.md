@@ -1,6 +1,7 @@
 ---
 layout: default
 title: COINE
+robots: noindex
 ---
 
 # Papers Accepted for Presentation
