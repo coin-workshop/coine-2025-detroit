@@ -1,8 +1,8 @@
 ---
 ---
 
-* __*<span style="color:blue"><a href="https://aamas2025.org/index.php/conference/registration/" target="_blank">Workshop registration</a> is now available. The early registration deadline ends on March 31, 2025</span>*__
-* __*<span style="color:blue">Notifications sent out on March 21, 2025 </span>*__
+**The COINE@AAMAS2025 post-proceedings volume has been published and can be accessed via [Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems XVIII International Workshop, COINE 2025, Detroit, MI, USA, May 20, 2025, Revised Selected Papers (LNCS 16253)](https://link.springer.com/book/10.1007/978-3-032-17542-7){:target="_blank"}**
+
 
 # Important Dates
 - Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span><span style="color:red; text-decoration: line-through;">February 22nd, 2025</span> **February 25th, 2025 AoE (EXTENDED)**
